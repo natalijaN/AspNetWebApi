@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 
 namespace Class2.Users.Controllers
 {
@@ -21,7 +23,7 @@ namespace Class2.Users.Controllers
         {
             new User(){ FirstName="John", LastName="Doe", Age=31},
             new User(){ FirstName="Jane", LastName="Doe", Age=25},
-            new User(){ FirstName="Michael", LastName="Brown", Age=45},
+            new User(){ FirstName="Michael", LastName="Brown", Age=4},
             new User(){ FirstName="Helena", LastName="Craft", Age=18}
         };
         [HttpGet]
@@ -46,7 +48,7 @@ namespace Class2.Users.Controllers
                 return BadRequest($"Problem with your request: {ex.Message}");
             }
         }
-        [HttpGet("user/{id}")]
+        [HttpGet("checkUser/{id}")]
         public ActionResult<string> CheckUser(int id)
         {
             try
@@ -54,9 +56,9 @@ namespace Class2.Users.Controllers
                 User user = users[id - 1];
                 if (user.Age >= 18)
                 {
-                    return "User is adult";
+                    return $"User with id {id} is adult!";
                 }
-                return "User is not adult";
+                return $"User with id {id} is not adult!";
             }
             catch (ArgumentOutOfRangeException)
             {
@@ -69,6 +71,17 @@ namespace Class2.Users.Controllers
             }
 
         }
-
+        [HttpPost]
+        public IActionResult Post()
+        {
+            string body;
+            using (StreamReader sr = new StreamReader(Request.Body))
+            {
+                body = sr.ReadToEnd();
+            }
+            User user = JsonConvert.DeserializeObject<User>(body);
+            users.Add(user);
+            return Ok($"User with id {users.Count - 1} has been added!");
+        }
     }
 }
