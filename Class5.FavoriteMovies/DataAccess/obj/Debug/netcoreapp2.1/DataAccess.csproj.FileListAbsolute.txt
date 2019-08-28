@@ -1,0 +1,14 @@
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\DataModels.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\Models.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\DataModels.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\bin\Debug\netcoreapp2.1\Models.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb

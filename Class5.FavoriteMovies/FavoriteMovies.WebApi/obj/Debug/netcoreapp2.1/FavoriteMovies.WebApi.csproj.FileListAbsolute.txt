@@ -2,7 +2,6 @@ E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovie
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\FavoriteMovies.WebApi.runtimeconfig.json
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\FavoriteMovies.WebApi.runtimeconfig.dev.json
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\FavoriteMovies.WebApi.dll
-E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.csprojAssemblyReference.cache
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.csproj.CoreCompileInputs.cache
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.RazorAssemblyInfo.cache
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.RazorAssemblyInfo.cs
@@ -12,3 +11,13 @@ E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovie
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\FavoriteMovies.WebApi.pdb
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.dll
 E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.csprojAssemblyReference.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\DataAccess.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\DataModels.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\Models.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\Services.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\Services.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\DataAccess.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\DataModels.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\bin\Debug\netcoreapp2.1\Models.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\FavoriteMovies.WebApi\obj\Debug\netcoreapp2.1\FavoriteMovies.WebApi.csproj.CopyComplete

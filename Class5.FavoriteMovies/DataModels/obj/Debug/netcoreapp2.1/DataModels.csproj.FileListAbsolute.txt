@@ -1,0 +1,12 @@
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\bin\Debug\netcoreapp2.1\Models.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csprojAssemblyReference.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csproj.CoreCompileInputs.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.AssemblyInfoInputs.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.AssemblyInfo.cs
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\bin\Debug\netcoreapp2.1\DataModels.deps.json
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\bin\Debug\netcoreapp2.1\DataModels.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\bin\Debug\netcoreapp2.1\DataModels.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\bin\Debug\netcoreapp2.1\Models.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.csproj.CopyComplete
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\DataModels\obj\Debug\netcoreapp2.1\DataModels.pdb

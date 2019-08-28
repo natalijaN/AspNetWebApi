@@ -1,0 +1,8 @@
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\bin\Debug\netcoreapp2.1\Models.deps.json
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\bin\Debug\netcoreapp2.1\Models.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\bin\Debug\netcoreapp2.1\Models.pdb
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\obj\Debug\netcoreapp2.1\Models.csproj.CoreCompileInputs.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfoInputs.cache
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\obj\Debug\netcoreapp2.1\Models.AssemblyInfo.cs
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\obj\Debug\netcoreapp2.1\Models.dll
+E:\web development\ASP.Net WebAPI\Class 5 - Favorite Movies\Class5.FavoriteMovies\Models\obj\Debug\netcoreapp2.1\Models.pdb
